@@ -8,14 +8,16 @@ How do we know whether a document that we are reading is authorized? Are student
 In this project, we build algorithms (one or more) and analyse the algorithms suitable for plagiarism checking software by applying the already understood concepts of Machine Learning. 
 
 # Group Members:
-1)Aneri Sheth- 1401072
-2)Himanshu Budhia- 1401039
-3)Raj Shah- 1401050
+1)Aneri Sheth- 1401072 <br />
+2)Himanshu Budhia- 1401039 <br />
+3)Raj Shah- 1401050 <br />
 4)Twinkle Vaghela- 1401106
 
 # NATURAL LANGUAGE PROCESSING:
 Natural Language processing is a wide domain coveringconcepts of Computer Science, Artificial Intelligence and Machine Learning. 
 It is used to analyze text or how humansspeak. One of the applications of NLP is Semantic Analysis(Understanding the meaning of text).
+
+# ![Alt text](/Images/VennNLP.PNG?raw=true)
 
 # CORPUS-BASED APPROACH:
 This approach uses semantically annotated corpora to train
@@ -23,3 +25,5 @@ Machine learning algorithms to decide which word to use in
 which context. Corpus-based methods are supervised learning
 approaches when the training data is trained by the algorithms.
 The corpora and the lexical resource used is WordNet.
+
+# ![Alt text](/Images/NLTK.jpg?raw=true)
