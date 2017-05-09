@@ -17,3 +17,9 @@ In this project, we build algorithms (one or more) and analyse the algorithms su
 Natural Language processing is a wide domain coveringconcepts of Computer Science, Artificial Intelligence and Machine Learning. 
 It is used to analyze text or how humansspeak. One of the applications of NLP is Semantic Analysis(Understanding the meaning of text).
 
+# CORPUS-BASED APPROACH:
+This approach uses semantically annotated corpora to train
+Machine learning algorithms to decide which word to use in
+which context. Corpus-based methods are supervised learning
+approaches when the training data is trained by the algorithms.
+The corpora and the lexical resource used is WordNet.
