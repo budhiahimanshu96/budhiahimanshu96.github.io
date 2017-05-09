@@ -42,18 +42,23 @@ Splitting sentences and words from the body of text. Words are separated by spac
 Sometimes, some extremely common words which would appear to be of little value in helping select documents matching a user need are excluded from the vocabulary entirely. These words are called stop words .
 Stop words can be filtered from the text to be processed. 
 <br />
+<br />
 ![Alt text](/Images/stop_words.JPG?raw=true "Stopwords Example")
 
 - #### Lemmatizing:
 The goal of lemmatization is to reduce inflectional forms and sometimes derivationally related forms of a word to a common base form.
 By default, an attempt will be made to find the closest noun of a word.
 <br/>
+<br />
 ![Alt text](/Images/lemmatizing.JPG?raw=true "Lemmatizing Example")
 
 - #### Synsets:
 WordNet is a lexical database for the English language, and is part of the NLTK corpus. We can use WordNet alongside the NLTK module to find the meaning of words, synonyms, antonyms and more.
 <br/>
+<br />
 ![Alt text](/Images/wordnet.JPG?raw=true "Wordnet Example 1")
+<br />
+<br />
 ![Alt text](/Images/wordnet2.JPG?raw=true "Wordnet Example 2")
 
 # Results:
